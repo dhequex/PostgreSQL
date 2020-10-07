@@ -1,1 +1,1 @@
--- Your SQL here
+SELECT * from students WHERE date_of_birth < NOW() - INTERVAL '25 years';

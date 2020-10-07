@@ -1,1 +1,1 @@
--- Your SQL here
+DELETE FROM students where first_name = 'Anakin';

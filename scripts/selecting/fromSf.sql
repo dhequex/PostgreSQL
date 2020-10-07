@@ -1,1 +1,1 @@
--- Your SQL here
+SELECT * from students where town_of_origin = 'San Francisco';
